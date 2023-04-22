@@ -1,0 +1,33 @@
+/**
+ * @name LupinoCord
+ * @version 2.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/1097282006125125775/1099347667643023390/Tiger-tigers-32293808-500-266.gif');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 3px;
+  --backgroundOpacity: 0.3;
+  --homeImage: url('https://media.discordapp.net/attachments/1097282006125125775/1098736187847487488/Lupin_ReBrand_NT.png?width=669&height=669');
+  --homeImageSize: cover;
+  --themeColor1: #0200FF;
+  --themeColor2: #FFEB3B;
+  --customFont: Open Sans;
+  --backgroundCode: rgb(255,0,0,0);
+  --backgroundName: rgb(255,0,0,0.51);
+}
+
+/* Any custom CSS below here */
+
